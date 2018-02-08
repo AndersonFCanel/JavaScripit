@@ -1,0 +1,9 @@
+.muda-titulo {
+    font-family: sans-serif;
+    background-color: #ccc;
+    display: inline-block;
+}
+
+#titulo-form {
+    margin-top: 20px;
+}
